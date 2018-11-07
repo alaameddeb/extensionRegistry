@@ -1,0 +1,12 @@
+{
+  "name": "extensionRegistry",
+  "version": "1.0.0",
+  "description": "extensionRegistry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alaameddeb/extensionRegistry"
+  },
+  "author": "eXo",
+  "license": "LGPL",
+  "main": "extensionRegistry.js"
+}
